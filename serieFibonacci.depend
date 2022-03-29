@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648591260 source:d:\unlam\progra2022\tp1\ej5\seriefibonacci\funciones.c
+	"header.h"
+
+1648591372 d:\unlam\progra2022\tp1\ej5\seriefibonacci\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1648588482 source:d:\unlam\progra2022\tp1\ej5\seriefibonacci\main.c
+	"header.h"
+
